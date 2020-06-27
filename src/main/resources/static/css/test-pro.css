@@ -1,0 +1,18 @@
+.test-pro {
+    margin: 1px;
+}
+
+
+.dropdown-menu {
+   max-height:200px;
+   overflow:scroll; 
+    overflow-x: hidden;
+}
+
+.multiselect-clear-filter{
+	padding:10px;
+}
+
+.form-control {
+    height: 36px;
+}
